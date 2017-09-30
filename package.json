@@ -6,12 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-laws/dev-gulp-pug.git"
+  },
   "keywords": [
     "gulp",
     "pug"
   ],
   "author": "Robert Laws",
   "license": "ISC",
+  "homepage": "https://github.com/robert-laws/dev-gulp-pug#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.0",
